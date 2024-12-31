@@ -1,7 +1,10 @@
-Build :
+build :
   version : 1.0.0
-
-contact :
-  support :
-  -"7893021892"
-  -"8247765821"
+accounts:
+  message: "Hey, welcome to JavaExpress accounts APIs"
+  contactDetails:
+    name: "Raghavendra - Product Owner"
+    email: "raghureddy@gmail.com"
+  onCallSupport:
+  -7893021892
+  -8247765821
