@@ -1,0 +1,10 @@
+build :
+  version : 1.0.0
+accounts:
+  message: "Hey, welcome to JavaExpress loans APIs"
+  contactDetails:
+    name: "Raghavendra - Product Owner"
+    email: "raghureddy@gmail.com"
+  onCallSupport:
+  -7893021892
+  -8247765821
